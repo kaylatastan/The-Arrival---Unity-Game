@@ -36,4 +36,11 @@ Thumbs.db
 *.exe
 
 # Burst Debug folders
+
 /[Tt]he_Arrival_BurstDebugInformation_DoNotShip/
+
+/[Vv]isual[Ss]tudio.opensdf
+/[Vv]isual[Ss]tudio.sdf
+/.vs/
+.vsconfig
+UpgradeLog.htm
