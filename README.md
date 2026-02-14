@@ -53,5 +53,4 @@ This project is more than just a game; it is an exploration of the "stuck" momen
 ---
 
 ## Developer
-**Kayla Ruveyda Tastan**
-*Computer Engineering Student*
+**Kayla Tastan**
